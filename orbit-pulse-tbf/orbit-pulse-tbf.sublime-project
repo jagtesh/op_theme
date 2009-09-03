@@ -1,0 +1,8 @@
+<!-- Documentation is available at http://www.sublimetext.com/docs/projects -->
+<project>
+	<mount dir="." direxclude=".svn,.git,CVS"/>
+	<options>
+<![CDATA[
+]]>
+	</options>
+</project>
