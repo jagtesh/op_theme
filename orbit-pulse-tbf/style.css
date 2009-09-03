@@ -220,4 +220,6 @@ img.aligncenter, img.alignright, img.alignleft { border: 5px solid #DDD }
 /* =Ads */
 #top-adbar {
     float: right;
+    width: 700px;
+    text-align: right;
 }
